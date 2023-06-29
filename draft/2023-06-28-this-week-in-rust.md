@@ -44,6 +44,7 @@ and just ask the editors to select the category.
 * [video] [Supercharge your I/O in Rust with io_uring](https://www.youtube.com/watch?v=IHAPVK1nOrQ)
 * [video] [Graph Traversal with Breadth-First Search in Rust](https://www.youtube.com/watch?v=ZDy3tqn-DKA)
 * [video] [Nine Rules for Writing Python Extensions in Rust | PyData Seattle 2023](https://www.youtube.com/watch?v=B6E0Jb6yj34)
+* [video] [Cellular IoT with Rust on the nRF9160: Setup](https://www.youtube.com/watch?v=w3HE0FdOFhI)
 
 ### Research
 
